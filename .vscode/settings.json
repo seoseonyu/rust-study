@@ -1,5 +1,6 @@
 {
     "rust-analyzer.linkedProjects": [
-        "./chapter_3/variables/Cargo.toml"
+        "./chapter_3/variables/Cargo.toml",
+        "./chapter_3/functions/Cargo.toml"
     ]
 }
