@@ -6,6 +6,10 @@
         "./chapter_5/struct_ownership/Cargo.toml",
         "./chapter_5/rectangles/Cargo.toml",
         "./chapter_5/struct_method/Cargo.toml",
+        "./chapter_6/enumerate/Cargo.toml",
+        "./chapter_6/matchs/Cargo.toml",
+        "./chapter_6/match_option/Cargo.toml",
+        "./chapter_6/if_let/Cargo.toml",
     ],
     "cSpell.words": [
         "seonyu",
