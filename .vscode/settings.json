@@ -1,6 +1,14 @@
 {
     "rust-analyzer.linkedProjects": [
         "./chapter_3/variables/Cargo.toml",
-        "./chapter_3/functions/Cargo.toml"
+        "./chapter_3/functions/Cargo.toml",
+        "./chapter_5/structs/Cargo.toml",
+        "./chapter_5/struct_ownership/Cargo.toml",
+        "./chapter_5/rectangles/Cargo.toml",
+        "./chapter_5/struct_method/Cargo.toml",
+    ],
+    "cSpell.words": [
+        "seonyu",
+        "seoseonyu"
     ]
 }
