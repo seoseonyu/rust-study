@@ -10,9 +10,12 @@
         "./chapter_6/matchs/Cargo.toml",
         "./chapter_6/match_option/Cargo.toml",
         "./chapter_6/if_let/Cargo.toml",
+        "./chapter_7/communicator/Cargo.toml",
+        "./chapter_7/outermost/Cargo.toml",
     ],
     "cSpell.words": [
         "seonyu",
         "seoseonyu"
-    ]
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
 }
