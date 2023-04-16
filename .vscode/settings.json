@@ -12,6 +12,9 @@
         "./chapter_6/if_let/Cargo.toml",
         "./chapter_7/communicator/Cargo.toml",
         "./chapter_7/outermost/Cargo.toml",
+        "./chapter_8/vector/Cargo.toml",
+        "./chapter_8/string/Cargo.toml",
+        "./chapter_8/hash_map/Cargo.toml",
     ],
     "cSpell.words": [
         "seonyu",
