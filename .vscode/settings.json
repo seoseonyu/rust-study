@@ -15,8 +15,12 @@
         "./chapter_8/vector/Cargo.toml",
         "./chapter_8/string/Cargo.toml",
         "./chapter_8/hash_map/Cargo.toml",
+        "./chapter_9/panic/Cargo.toml",
+        "./chapter_9/result/Cargo.toml",
+        "./chapter_9/panic_or_non_panic/Cargo.toml",
     ],
     "cSpell.words": [
+        "println",
         "seonyu",
         "seoseonyu"
     ],
