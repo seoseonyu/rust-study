@@ -18,6 +18,8 @@
         "./chapter_9/panic/Cargo.toml",
         "./chapter_9/result/Cargo.toml",
         "./chapter_9/panic_or_non_panic/Cargo.toml",
+        "./chapter_10/generic/Cargo.toml",
+        "./chapter_10/traits/Cargo.toml",
     ],
     "cSpell.words": [
         "println",
