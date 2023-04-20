@@ -5,3 +5,5 @@
 ---
 
 참고 : https://rinthel.github.io/rust-lang-book-ko/
+
+최신본:https://rust-kr.github.io/doc.rust-kr.org/

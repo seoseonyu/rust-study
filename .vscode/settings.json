@@ -20,6 +20,7 @@
         "./chapter_9/panic_or_non_panic/Cargo.toml",
         "./chapter_10/generic/Cargo.toml",
         "./chapter_10/traits/Cargo.toml",
+        "./chapter_10/lifetime/Cargo.toml",
     ],
     "cSpell.words": [
         "println",
